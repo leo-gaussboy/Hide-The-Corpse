@@ -193,4 +193,4 @@ This repository serves as the official landing page for Hide The Corpse. The sof
 **Get the most recent version of Hide The Corpse today!**
 
 ---
-**Last updated:** 2026-11-10 01:55:09 UTC
+**Last updated:** 2026-11-10 09:28:05 UTC
